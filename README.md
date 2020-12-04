@@ -11,3 +11,4 @@
 ・指定時間にCSVファイルを添付してメール送信
 
 # 紹介用URL
+https://drive.google.com/file/d/1hbMIt95p53DP7DALdIdmju3rvt_R2kpi/view?usp=sharing
